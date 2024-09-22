@@ -1,68 +1,67 @@
 # Hi there! I'm Amine Belaabed 👋
 
-### Amine Belaabed, 22 years old — Entrepreneur & Tech Innovator  
-Blending technology, business, and creativity to build groundbreaking solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Entrepreneur+%26+Tech+Innovator;5%2B+years+of+experience;MSc+in+IT+%7C+BSc+in+CS;Freelancer+%7C+Business+Leader;Building+Fresco+Food+DZ+%26+BV+PROJECT;Always+Learning+%26+Evolving" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📚 **Academic and Professional Background:**
-+ 🌍 5+ years of hands-on experience at the intersection of technology and business.
-+ 🎓 MSc student in Information Technology and Bachelor's degree holder in Computer Science.
-+ 📡 Ex R&D fraud Telecom intern in Software Engineering at Ooredoo Algiers, developing Web-AI solutions for telecom fraud investigation and detection.
-+ 🌐 Expert Freelancer providing international clients with services in Digital Marketing.
-+ 🎯 Ex GOMYCODE Digital Marketing Instructor.
+## 📚 **About Me:**
+- 🎓 MSc student in Information Technology & Bachelor's in Computer Science.
+- 💼 5+ years of merging technology and business to solve real-world problems.
+- 👨‍💻 Ex R&D intern @OoredooAlgeria, developed AI-driven web apps to combat telecom fraud.
+- 🌍 Experienced freelancer in digital marketing and business sales, delivering international projects.
 
 ---
 
-## 🔧 **Areas of Expertise:**
-+ 🎨 UI/UX Design (5 years)
-+ 💻 Software Engineering (4 years)
-+ 🚀 Digital Marketing (4 years)
-+ 💲 Business Sales (3 years)
+## 🔧 **What I Do:**
+- **UI/UX Design**: Crafting engaging digital experiences.
+- **Software Engineering**: Building scalable web and mobile solutions.
+- **Digital Marketing**: Driving digital strategies that convert.
+- **Business Development**: Innovating across industries.
 
 ---
 
-## 🚀 **Entrepreneurial Initiatives:**
-+ 🍽️ Founded **Fresco Food DZ**, an innovative health-conscious meal prep and delivery service, going viral in Algeria and North Africa.
-+ 🔥 Founded **BV PROJECT**, a lifestyle initiative empowering youth to strive for their best selves.
-+ 💼 Founder of multiple businesses across industries: food, automotive, clothing, real estate, and business sales.
-+ 🛠️ Currently developing multiple upcoming viral business solutions, showcasing expertise in research, design, and development.
+## 🚀 **Entrepreneurial Ventures:**
+- 🍽️ Founder of **Fresco Food DZ** - Revolutionizing the healthy meal industry.
+- 🔥 Founder of **BV PROJECT** - Empowering youth to achieve their best selves.
+- 💼 Creator of multiple business ventures spanning food, automotive, clothing, and more.
+  
+---
+
+## 🏆 **Achievements in Hackathons:**
+- 🇸🇦 **Quranic Apps Hackathon Finalist** - Top 250 out of 44 countries.
+- 🇦🇪 **App Olympics Quarter-finalist** @Dubai Chamber of Digital Economy.
+- 🏅 Multiple hackathon top-3 finishes in Algeria & internationally.
 
 ---
 
-## 🏆 **Hackathon Recognition:**
-+ 🇸🇦🎖️ **Finalist** in the International Quranic Apps Hackathon among 250 teams from 44 countries, representing Algeria.
-+ 🇦🇪🏅 **Quarter-finalist** participant in The App Olympics, organized by The Dubai Chamber of Digital Economy.
-+ 🇩🇿🥉 **JunctionX National Hackathon 2021**: Led the GoldenWarriors Team to a top-three position.
-+ 🇩🇿 **Entrepreneur League program & National Competition**: INJAZ BEYOND EDITION.
-+ 🇩🇿🥉 **Cyber Pink 2020**: Led the team to a top-three position.
-+ 🇩🇿🥉 **TAHADIGIMACT National Hackathon** at Oran: Top 3 teams in the Tourism Challenge, recognized for the best app design.
-+ 🇫🇮 Participated in numerous other national and international hackathons.
+## 🎤 **Inspiring the Next Generation:**
+- 🎓 Guest Speaker at top universities, impacting over 1500 students.
+- 🏛️ University of Algiers, University of Houari Boumediene, and more.
 
 ---
 
-## 🎤 **Recognition and Speaking Engagements:**
-+ 🎤 **Guest speaker** at multiple universities, inspiring over 1500 students at:
-   - 🏛️ The Higher School of Computer Science ESI in Algiers.
-   - 🏫 The University of Houari Boumediene, Algeria’s top university.
-   - 🏫 The University of M’hamed Bougara Boumerdes.
+## 📘 **Author of 'Smart Work Code' (Coming Soon)**
 
 ---
 
-## 📘 **Author of 'Smart Work Code' coming soon.**
+## 📊 **GitHub Stats:**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminexx2002x&show_icons=true&theme=radical&hide_border=true&bg_color=0,000000,0A0A0A,1A1A1A&title_color=FFFFFF&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexx2002x&layout=compact&theme=radical&hide_border=true&bg_color=0,000000,0A0A0A,1A1A1A&title_color=FFFFFF&text_color=FFFFFF" />
+</p>
 
 ---
 
-### **GitHub Stats:**
+## 🔗 **Let's Connect!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/amine-belaabed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Amine%20Belaabed-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/amine.belaabed/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Amine%20Belaabed-pink?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://x.com/amine_belaabed" target="_blank"><img src="https://img.shields.io/badge/Twitter-Amine%20Belaabed-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminexx2002x&show_icons=true&theme=luxury)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminexx2002x&layout=compact&theme=luxury)
-
----
-
-### **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Belaabed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amine-belaabed/)
-[![Instagram](https://img.shields.io/badge/Instagram-Amine%20Belaabed-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/amine.belaabed/)
-[![Twitter](https://img.shields.io/badge/Twitter-Amine%20Belaabed-blue?style=for-the-badge&logo=twitter)](https://x.com/amine_belaabed)
-
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aminexx2002x)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aminexx2002x" alt="Profile Views">
+</p>
