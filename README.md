@@ -1,7 +1,7 @@
 # Hi there! I'm Amine Belaabed 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Entrepreneur+%26+Tech+Innovator;5%2B+years+of+experience;MSc+in+IT+%7C+BSc+in+CS;Freelancer+%7C+Business+Leader;Building+Fresco+Food+DZ+%26+BV+PROJECT;Always+Learning+%26+Evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Entrepreneur+%26+Tech+Innovator;5%2B+years+of+experience;MSc+in+IT+%7C+BSc+in+CS;Freelancer+%7C+Business+Leader;Always+Learning+%26+Evolving" alt="Typing SVG" />
 </p>
 
 ---
