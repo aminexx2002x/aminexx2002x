@@ -1,7 +1,5 @@
 # Hi there! I'm Amine Belaabed 👋
 
-![Luxury Header](https://your-luxury-banner-link.com)
-
 ### Amine Belaabed, 22 years old — Entrepreneur & Tech Innovator  
 Blending technology, business, and creativity to build groundbreaking solutions.
 
@@ -64,7 +62,7 @@ Blending technology, business, and creativity to build groundbreaking solutions.
 
 ### **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine%20Belaabed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amine-belaabed/)
-[![Instagram](https://img.shields.io/badge/Instagram-Fresco%20Food%20DZ-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/amine.belaabed/)
+[![Instagram](https://img.shields.io/badge/Instagram-Amine%20Belaabed-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/amine.belaabed/)
 [![Twitter](https://img.shields.io/badge/Twitter-Amine%20Belaabed-blue?style=for-the-badge&logo=twitter)](https://x.com/amine_belaabed)
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aminexx2002x)
