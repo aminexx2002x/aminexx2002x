@@ -13,8 +13,9 @@
 ## 🖤 **About Me:**
 - 🎓 MSc student in Information Technology & BSc in Computer Science.
 - 💼 5+ years of combining technology and business to build game-changing solutions.
-- 👨‍💻 Ex R&D intern @OoredooAlgeria, crafting AI-driven apps to detect telecom fraud.
+- 👨‍💻 Ex R&D intern @OoredooAlgeria, crafting AI-driven apps to detect telecom fraud with 94.7% accuracy.
 - 🌍 International Freelancer in digital marketing and business consulting.
+- 🎤 Guest speaker at multiple universities, inspiring over **1500 students** at top institutions like the Higher School of Computer Science ESI Algiers, University of Houari Boumediene, and University of M'hamed Bougara Boumerdes.
 
 ---
 
@@ -47,53 +48,35 @@
 
 ---
 
-## 🚀 **Entrepreneurial Journey:**
-- 🍽️ **Fresco Food DZ** - Leading a health-focused revolution in Algeria's food industry.
-- 📊 **Co-founder of @Aghsalni.dz** - Shaking up the auto-washing industry with tech-driven solutions.
-- 🔥 **BV PROJECT** - Inspiring the youth of today to become the leaders of tomorrow.
-- 💼 Founder of multiple ventures across industries including food, automotive, and fashion.
+## 🏆 **Notable Achievements:**
+- 🏅 **Fresco Food DZ**: Founder of a gourmet food delivery brand, delighting customers with balanced, flavorful meals and irresistible sweets.
+- 🛠️ Built an AI-powered platform at **Ooredoo Algeria** to detect telecom fraud with a 94.7% success rate.
+- 🎤 **Guest Speaker**: Inspired **1500+ students** in major Algerian universities through leadership talks and workshops.
+- 💼 Leading multiple business ventures in Africa, partnering with **Noson Sport** and planning strategic expansions across the continent.
 
 ---
 
-## 🏆 **Hackathon Achievements:**
-- 🇸🇦 **Quranic Apps Hackathon Finalist** - Top 250 out of 44 countries.
-- 🇦🇪 **App Olympics Quarter-finalist** @Dubai Chamber of Digital Economy.
-- 🥇 **Numerous top-3 finishes** in national and international hackathons.
+## 📈 **Current Focus**:
+- 🎯 Growing my network to **1M+ followers** on LinkedIn.
+- 🚀 Expanding my influence in tech and business across Africa.
+- 🔧 Continuing to build cutting-edge apps and businesses that make an impact.
 
 ---
-
-## 🎤 **Motivating the Next Generation:**
-- 🏛️ Guest speaker at top universities, having inspired over **1500 students**.
-- 🎓 Featured at University of Algiers, University of Houari Boumediene, and more.
-
----
-
-## 📘 **Author of 'Smart Work Code' (Coming Soon)**
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1A1A1A&height=4"/>
-</p>
-
-## 📊 **GitHub Stats:**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminexx2002x&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminexx2002x&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
-</p>
-
----
-
-## 🌐 **Connect with Me:**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amine-belaabed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Amine%20Belaabed-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A0A0A" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/amine.belaabed/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Amine%20Belaabed-pink?style=for-the-badge&logo=instagram&logoColor=white&color=0A0A0A" alt="Instagram"></a>
-  <a href="https://x.com/amine_belaabed" target="_blank"><img src="https://img.shields.io/badge/Twitter-Amine%20Belaabed-blue?style=for-the-badge&logo=twitter&logoColor=white&color=0A0A0A" alt="Twitter"></a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aminexx2002x&style=for-the-badge&color=0A0A0A&logo=github&logoColor=white" alt="Profile Views">
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1A1A1A&height=4"/>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i> – Peter Drucker
+</p>
+
+---
+## 💬 **Connect with Me:**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amine-belaabed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/frescofood.dz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/aminexx2002x" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://tiktok.com/@amine.belaabed" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
