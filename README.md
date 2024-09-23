@@ -50,10 +50,11 @@
 
 ## 🏆 **Notable Achievements:**
 - 🏅 **Fresco Food DZ**: Founder of a gourmet food delivery brand, delighting customers with balanced, flavorful meals and irresistible sweets.
-- 🛠️ Built an AI-powered platform at **Ooredoo Algeria** to detect telecom fraud with a 94.7% success rate.
+- 🔥 Founded **BV PROJECT**, a lifestyle initiative empowering youth to strive for their best selves.
+- 💼 Founder of multiple businesses across industries: food, automotive, clothing, real estate, and business sales.
+- 🛠️ Currently developing multiple upcoming viral business solutions, showcasing expertise in research, design, and development.
+- 🛠️ Built an AI-powered web platform at **Ooredoo Algeria** to help investigate and prevent telecom fraud with a 94.7% success rate.
 - 🎤 **Guest Speaker**: Inspired **1500+ students** in major Algerian universities through leadership talks and workshops.
-- 💼 Leading multiple business ventures in Africa, partnering with **Noson Sport** and planning strategic expansions across the continent.
-
 ---
 
 ## 📈 **Current Focus**:
