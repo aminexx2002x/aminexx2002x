@@ -23,7 +23,7 @@
 - 🎨 **UI/UX Design**: Turning complex ideas into stunning, user-centric designs.
 - 💻 **Software Engineering**: Crafting scalable, efficient solutions for web and mobile.
 - 🚀 **Digital Marketing**: Elevating brands through innovative, result-driven strategies.
-- 💼 **Business Development**: Pioneering ventures that shape industries.
+- 💼 **Business Development**: Pioneering concepts that shape industries.
 
 ### Tech Stack
 
