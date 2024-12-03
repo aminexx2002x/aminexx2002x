@@ -1,7 +1,7 @@
 # Hi there! I'm Amine Belaabed 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Entrepreneur+%26+Tech+Innovator;Building+the+Future+of+Business;5%2B+Years+of+Experience;MSc+in+IT+%7C+BSc+in+CS;Leader+%7C+Visionary+%7C+Builder;Always+Learning+%26+Evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Entrepreneur+%26+Tech+Innovator;Building+the+Future+of+Business;5%2B+Years+of+Experience;MSc+in+Software+Engineering;Leader+%7C+Visionary+%7C+Builder;Always+Learning+%26+Evolving" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,21 +11,43 @@
 </p>
 
 ## 🖤 **About Me:**
-- 🎓 MSc student in Information Technology & BSc in Computer Science.
-- 💼 5+ years of combining technology and business to build game-changing solutions.
-- 👨‍💻 Ex R&D intern @OoredooAlgeria, crafting AI-driven apps to detect telecom fraud with 94.7% accuracy.
-- 🌍 International Freelancer in digital marketing and business consulting.
-- 🎤 Guest speaker at multiple universities, inspiring over **1500 students** at top institutions like the Higher School of Computer Science ESI Algiers, University of Houari Boumediene, and University of M'hamed Bougara Boumerdes.
+- 🎓 MSc student in Software Engineering & Data Processing and BSc in Computer Science.
+- 💼 5+ years of blending technology, business, and creativity to build groundbreaking solutions.
+- 👨‍💻 Ex R&D intern @OoredooAlgeria, developing Web-AI apps to detect telecom fraud with 94.7% accuracy.
+- 🌍 International Freelancer providing services in digital marketing and business consulting.
+- 🎤 Guest speaker at multiple universities, inspiring over **2000+ students** at top institutions like:
+  - 🏛️ The Higher School of Computer Science (ESI), Algiers.
+  - 🏫 The University of Houari Boumediene, Algeria’s top university.
+  - 🏫 The University of M'hamed Bougara Boumerdes.
 
 ---
 
 ## 🔧 **My Skillset:**
-- 🎨 **UI/UX Design**: Turning complex ideas into stunning, user-centric designs.
-- 💻 **Software Engineering**: Crafting scalable, efficient solutions for web and mobile.
-- 🚀 **Digital Marketing**: Elevating brands through innovative, result-driven strategies.
-- 💼 **Business Development**: Pioneering concepts that shape industries.
+- 🎨 **UI/UX Design**: Crafting stunning, user-centric designs.
+- 💻 **Software Engineering**: Developing scalable and efficient web and mobile solutions.
+- 🚀 **Digital Marketing**: Driving results through innovative branding strategies.
+- 💼 **Business Development**: Creating impactful ventures across multiple industries.
 
-### Tech Stack
+---
+
+## 🏆 **Notable Achievements:**
+- 🥉 **Cyber Pink 2020**: Top 3 at the national hackathon, driving innovative app designs.
+- 🥉 **JunctionX 2021**: Secured top 3 position leading the GoldenWarriors team.
+- 🎖️ **International Quranic Apps Hackathon**: Represented Algeria and reached the finals among 250 global teams.
+- 🏅 **Dubai App Olympics 2022**: Quarter-finalist, showcasing technological prowess.
+- 🎤 **Panel Speaker**: Shared insights on AI and societal impact under the patronage of UK Ambassador Sharon Wardle.
+
+---
+
+## 💼 **Entrepreneurial Ventures:**
+- 🍽️ **Fresco Food DZ**: A leading health-conscious meal prep service in Algeria and North Africa.
+- 💦 **Aghsalni DZ**: Algeria's #1 app for booking car detailing and vehicle washing services.
+- 🔥 **BV Project**: A lifestyle brand empowering individuals to reach their full potential.
+- 💼 Founder of diverse businesses in food, automotive, clothing, real estate, and sales.
+
+---
+
+## 💻 **Tech Stack**
 
 | **Languages** | **Frameworks** | **Databases** | **Tools & Platforms** |
 |---------------|-----------------|----------------|------------------------|
@@ -38,46 +60,8 @@
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) | ![Apollo-GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat&logo=Apollo-GraphQL&logoColor=white) |                | ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=black) |
 | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |                 |                | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white) |
 
-| **Libraries** | **Version Control & CI/CD** | **Design Tools** | **Other** |
-|---------------|------------------------------|------------------|-----------|
-| ![Chart.js](https://img.shields.io/badge/Chart.js-F03800?style=flat&logo=Chart.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white) | ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black) |
-| ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white) |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white) |                              |                  | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51E4D?style=flat&logo=Raspberry%20Pi&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white) |                              |                  | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white) |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) |                              |                  | ![Postman](https://img.shields.io/badge/Postman-FC7B29?style=flat&logo=Postman&logoColor=white) |
-
----
-
-## 🏆 **Notable Achievements:**
-- 🏅 **Fresco Food DZ**: Founder of a gourmet food delivery brand, delighting customers with balanced, flavorful meals and irresistible sweets.
-- 🔥 Founded **BV PROJECT**, a lifestyle initiative empowering youth to strive for their best selves.
-- 💼 Founder of multiple businesses across industries: food, automotive, clothing, real estate, and business sales.
-- 🛠️ Currently developing multiple upcoming viral business solutions, showcasing expertise in research, design, and development.
-- 🛠️ Built an AI-powered web platform at **Ooredoo Algeria** to help investigate and prevent telecom fraud with a 94.7% success rate.
-- 🎤 **Guest Speaker**: Inspired **1500+ students** in major Algerian universities through leadership talks and workshops.
----
-
-## 📈 **Current Focus**:
-- 🎯 Growing my network to **1M+ followers** on LinkedIn.
-- 🚀 Expanding my influence in tech and business across Africa.
-- 🔧 Continuing to build cutting-edge apps and businesses that make an impact.
-
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1A1A1A&height=4"/>
-</p>
-
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i> – Peter Drucker
-</p>
-
----
-## 💬 **Connect with Me:**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amine-belaabed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/frescofood.dz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/aminexx2002x" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://tiktok.com/@amine.belaabed" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
